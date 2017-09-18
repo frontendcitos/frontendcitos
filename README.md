@@ -1,4 +1,4 @@
-# MatJek
+# FrontEndcitos
 
 A responsive [Material](https://material.io/) theme based on [Materialize.css](http://materializecss.com/) for jekyll sites.
 
